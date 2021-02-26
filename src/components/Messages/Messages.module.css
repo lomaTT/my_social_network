@@ -1,0 +1,12 @@
+.messages_content {
+  display: grid;
+  grid-template-columns: 3fr 9fr;
+}
+
+.messages {
+  text-align: center;
+}
+
+.button {
+  background-color: red;
+}

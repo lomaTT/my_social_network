@@ -1,0 +1,26 @@
+.nav {
+  background-color:blue;
+  grid-area: n;
+  text-indent: 30%;
+  text-align: justify;
+  padding: 20px;
+}
+
+
+.item a {
+  color: gold;
+  text-decoration: none;
+}
+
+.item a:hover {
+  color: white;
+  transition: 1s;
+}
+
+.item a.activeLink {
+  color: white;
+}
+
+.menu {
+  background-color:blue;
+}

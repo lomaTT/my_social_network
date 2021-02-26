@@ -1,0 +1,20 @@
+.textarea {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 75px;
+    width: 500px;
+    resize: none;
+    border: 2px solid #12b0aa;
+}
+
+.item {
+    margin-bottom: 50px;
+
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

@@ -1,0 +1,8 @@
+.bestFriends {
+  display: grid;
+  grid-template-columns: 100px 100px 100px;
+  padding-top: 50%;
+  margin: 0 auto;
+}
+
+

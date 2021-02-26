@@ -1,0 +1,27 @@
+.post {
+    display: grid;
+    margin: 0 auto;
+    grid-template-columns: 1fr 11fr;
+    grid-template-rows: 120px 1fr;
+    grid-template-areas: "p post";
+    width: 70%;
+}
+
+.post img {
+    width: 120px;
+    border-radius: 100%;
+    margin: 0 auto;
+}
+
+.photo {
+    grid-area: p;
+}
+
+.post_content {
+    grid-area: post;
+    text-align: center;
+}
+
+.likes {
+    text-align: center;
+}
